@@ -7,3 +7,6 @@ int main()
   }
   return 0;
 }
+
+Printf (“Hello Holberton\n”)
+for  (i = 0; i < 32; i++)
